@@ -5,6 +5,7 @@ public class GitPractice {
 		// TODO Auto-generated method stub
 		System.out.println("Hi this is git class");
 		System.out.println("lets make some changes");
+		System.out.println("hellooo");
 	}
 
 }
